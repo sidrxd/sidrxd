@@ -1,0 +1,39 @@
+
+html,
+body {
+    height: 50%;
+}
+
+.container-box
+{
+	display:inline-block; 
+	padding:8px; 
+	background: #f8f8f8;
+	border: 4px solid #ffffff;
+        border-radius:15px 0 0 0;
+	position: fixed;
+        bottom: 0%;
+        z-index: 100;
+  	right:0;
+
+}
+
+.modal-content
+{
+	border-radius:20px 20px 20px 20px;
+	border: 10px solid #ffffff;
+	background: rgba(255, 255, 255, 1);	
+}
+
+
+.rotated
+{
+    -moz-transform:rotate(0deg);
+    -ms-transform:rotate(0deg);
+    -o-transform:rotate(0deg);
+    -webkit-transform:rotate(0deg);
+    transform-origin: top left;  
+}
+
+
+

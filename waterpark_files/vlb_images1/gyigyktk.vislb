@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>false</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>gyigyktk</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>1. Standard</ImageTemplate>
+            <ImageTemplateName>Standard</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <PublishFileName>C:/Users/SIDDHARTH SHAKYA/Documents/VisualLightBox/waterpark1.html</PublishFileName>
+            <PublishIndex>waterpark1.html</PublishIndex>
+            <PublishPath>C:/Users/SIDDHARTH SHAKYA/Documents/VisualLightBox</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>true</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>100</ThumbHeight>
+            <ThumbQuality>98</ThumbQuality>
+            <ThumbTemplate>No Frame Rounded</ThumbTemplate>
+            <ThumbTemplateName>No Frame Rounded</ThumbTemplateName>
+            <ThumbWidth>100</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>D:/Projects/Shashi International Website/waterpark_files/vlb_images1/gallery_item1.jpg</url>
+                <title>gallery_item1</title>
+                <filesize>127743</filesize>
+            </Image>
+            <Image>
+                <url>D:/Projects/Shashi International Website/waterpark_files/vlb_images1/gallery_item6.jpg</url>
+                <title>gallery_item6</title>
+                <filesize>136683</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190523-WA0022.jpg</url>
+                <title>IMG-20190523-WA0022</title>
+                <filesize>111160</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190523-WA0028.jpg</url>
+                <title>IMG-20190523-WA0028</title>
+                <filesize>163249</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190523-WA0029.jpg</url>
+                <title>IMG-20190523-WA0029</title>
+                <filesize>201388</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190523-WA0035.jpg</url>
+                <title>IMG-20190523-WA0035</title>
+                <filesize>122645</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190523-WA0039.jpg</url>
+                <title>IMG-20190523-WA0039</title>
+                <filesize>119145</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0013.jpg</url>
+                <title>IMG-20190524-WA0013</title>
+                <filesize>57551</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0015.jpg</url>
+                <title>IMG-20190524-WA0015</title>
+                <filesize>52092</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0016.jpg</url>
+                <title>IMG-20190524-WA0016</title>
+                <filesize>59757</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0017.jpg</url>
+                <title>IMG-20190524-WA0017</title>
+                <filesize>74559</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0020.jpg</url>
+                <title>IMG-20190524-WA0020</title>
+                <filesize>64602</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0021.jpg</url>
+                <title>IMG-20190524-WA0021</title>
+                <filesize>46387</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0022.jpg</url>
+                <title>IMG-20190524-WA0022</title>
+                <filesize>59573</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0025.jpg</url>
+                <title>IMG-20190524-WA0025</title>
+                <filesize>188238</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0027.jpg</url>
+                <title>IMG-20190524-WA0027</title>
+                <filesize>192573</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0028.jpg</url>
+                <title>IMG-20190524-WA0028</title>
+                <filesize>158029</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0032.jpg</url>
+                <title>IMG-20190524-WA0032</title>
+                <filesize>164456</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0035.jpg</url>
+                <title>IMG-20190524-WA0035</title>
+                <filesize>190812</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0036.jpg</url>
+                <title>IMG-20190524-WA0036</title>
+                <filesize>153309</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0046.jpg</url>
+                <title>IMG-20190524-WA0046</title>
+                <filesize>196755</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0048.jpg</url>
+                <title>IMG-20190524-WA0048</title>
+                <filesize>114214</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0050.jpg</url>
+                <title>IMG-20190524-WA0050</title>
+                <filesize>217729</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0051.jpg</url>
+                <title>IMG-20190524-WA0051</title>
+                <filesize>135711</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0052.jpg</url>
+                <title>IMG-20190524-WA0052</title>
+                <filesize>227776</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0054.jpg</url>
+                <title>IMG-20190524-WA0054</title>
+                <filesize>252125</filesize>
+            </Image>
+            <Image>
+                <url>D:\Projects\Shashi International Website\waterpark_files\vlb_images1\IMG-20190524-WA0056.jpg</url>
+                <title>IMG-20190524-WA0056</title>
+                <filesize>192819</filesize>
+            </Image>
+            <Image>
+                <url>D:/Projects/Shashi International Website/waterpark_files/vlb_images1/kidspool.jpg</url>
+                <title>kidspool</title>
+                <filesize>147328</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

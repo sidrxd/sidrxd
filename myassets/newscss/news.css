@@ -1,0 +1,40 @@
+.holder { 
+  background-color:#ffffff;
+  width: 100%;
+  height: 50%;
+  overflow:hidden;
+  padding:20px;
+  font-family:Ubuntu;
+   border: 0px solid red;
+   border-radius:10px;
+   opacity:0.8;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 6px 0 rgba(0, 0, 0, 0.19);
+   
+  
+}
+.holder .mask {
+  position: relative;
+  left: 8px;
+  top: 5px;
+  right:8px;
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+   
+}
+.holder ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  position: relative;
+}
+.holder ul li {
+  padding:10px 0px;
+}
+.holder ul li a {
+  color:blue;
+  text-decoration:none;
+}
+.shadowsid {
+  text-shadow: 0 0 8px #FF0000;
+}

@@ -1,0 +1,46 @@
+section
+
+
+
+
+<section id="dropdown-menu-2btn-0" data-rv-view="0">
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top">
+
+        <div class="container">
+
+            <div class="navbar-brand">
+                <a href="index.html" class="navbar-logo"><img src="assets/images/school.logo-128x128.png"></a>
+                <a class="text-danger" href="index.html">SHASHI INTERNATIONAL SCHOOL</a>
+            </div>
+
+            <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                <div class="hamburger-icon"></div>
+            </button>
+
+            <ul class="nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav" id="exCollapsingNavbar">
+			<li class="nav-item"><a class="nav-link link" href="index.html#header1-1" aria-expanded="false">Home</a></li>
+			<li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="https://shashiedu.com/" aria-expanded="false" data-toggle="dropdown-submenu">About Us</a>
+			<div class="dropdown-menu">
+			<a class="dropdown-item" href="index.html">Vision/Mission</a>
+			<a class="dropdown-item" href="director.html#msg-box3-s">Director's Message</a>
+			<a class="dropdown-item" href="chairperson.html#msg-box3-y">Chairperson's Message</a>
+			<a class="dropdown-item" href="principal.html#msg-box3-13">Pricipal's Desk</a>
+			<a class="dropdown-item" href="faculty.html#msg-box3-18">Faculty &amp; Staff</a>
+			<a class="dropdown-item" href="academics.html#msg-box4-1e">Academics</a>
+			<a class="dropdown-item" href="index.html"></a><a class="dropdown-item" href="index.html"></a></div></li><li class="nav-item dropdown">
+			<a class="nav-link link dropdown-toggle" href="https://shashiedu.com/" aria-expanded="false" data-toggle="dropdown-submenu">Facilities</a>
+			<div class="dropdown-menu">
+			<a class="dropdown-item" href="facilities.html">Transport</a>
+			<a class="dropdown-item" href="https://shashiedu.co.nf"></a></div></li><li class="nav-item dropdown">
+			<a class="nav-link link dropdown-toggle" href="https://shashiedu.com/" aria-expanded="false" data-toggle="dropdown-submenu">Infrastructure</a><div class="dropdown-menu">
+			<a class="dropdown-item" href="infrastructure.html#msg-box4-1x">Classrooms</a>
+			<a class="dropdown-item" href="infrastructure.html#msg-box4-1j">Library</a>
+			<a class="dropdown-item" href="infrastructure.html#msg-box4-1z">Computer Laboratory<br></a>
+			<a class="dropdown-item" href="infrastructure.html#msg-box4-21">Science Laboratory<br></a></div></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="https://shashiedu.com/" aria-expanded="false" data-toggle="dropdown-submenu">Admissions</a><div class="dropdown-menu"><a class="dropdown-item" href="admissions.html" aria-expanded="false">Admission Procedure</a><a class="dropdown-item" href="admissions.html#form1-25" aria-expanded="false">Apply Now</a><a class="dropdown-item" href="admissions.html#msg-box3-26">Rules &amp; Regulations</a></div></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="https://shashiedu.com/" aria-expanded="false" data-toggle="dropdown-submenu">Contact Us</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Email</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item" href="https://shashiedu.co.nf">New Item</a></div></div><a class="dropdown-item" href="index.html">Mobile No.<br></a><a class="dropdown-item" href="index.html#contacts1-2">Fax<br></a></div></li><li class="nav-item"><a class="nav-link link" href="https://shashiedu.com/" aria-expanded="false"></a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-danger" href="index.html">ONLINE REGISTRATION</a></li></ul>
+
+        </div>
+
+    </nav>
+
+</section>
