@@ -125,9 +125,6 @@
                         <div class="content">
                             <h2 class="become-teacher__title">Trasfer Certificate of Students</h2><!-- /.team-details__title -->
                  <p><a  href="downloads/tc1.pdf" class="thm-btn">Index of TC Students</a></p>
-                	<br>
-                	<p><a href="downloads/alltc.pdf" class="thm-btn">TC of All Students</a></p>
-                	
                         </div>
                      </div><!-- /.row -->
 					 
