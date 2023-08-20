@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidrxd
-- 👀 I’m interested in Android Development
+- 👀 I’m an Android Developer
 - 📫 How to reach me sidrxd@gmail.com
 
 <!---
